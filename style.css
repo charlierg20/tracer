@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@600&display=swap');
+
+body {
+  font-family: 'Oxanium', sans-serif;
+}
+
+.container {
+  margin-top: 20px;
+  text-align: center;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 10px;
+  color: white;
+  padding-bottom: 20px;
+}
+
+.inputip {
+  margin-bottom: 5px;
+}
+
+.inputbtn {
+  width: 100%;
+}
